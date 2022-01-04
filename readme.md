@@ -4,7 +4,7 @@
 
 🌙 nocturnal coder 🌟  
 광운대학교 컴퓨터공학과 휴학생입니다.  
-PS / C++ / Spring / React 에 관심이 있습니다.   
+PS / VLSI / C++ / Spring / React 에 관심이 있습니다.   
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejh9226)](https://solved.ac/leejh9226/)
 
