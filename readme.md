@@ -16,11 +16,12 @@ PS / C++ / Spring / Vue 에 관심이 있습니다.
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 July 2022 - To: 26 February 2023
-
-Total Time: 448 hrs 3 mins
-
-Other                      214 hrs 2 mins  >>>>>>>>>>>>-------------   47.77 %
+Vue.js       13 hrs 4 mins   █████████████████░░░░░░░░   68.37 %
+Python       5 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.47 %
+JavaScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+CSV          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
