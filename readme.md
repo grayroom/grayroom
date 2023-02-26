@@ -14,6 +14,15 @@ PS / C++ / Spring / Vue 에 관심이 있습니다.
 
 ## WakaTime
 <!--START_SECTION:waka-->
+
+```text
+From: 25 July 2022 - To: 26 February 2023
+
+Total Time: 448 hrs 3 mins
+
+Other                      214 hrs 2 mins  >>>>>>>>>>>>-------------   47.77 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Project
