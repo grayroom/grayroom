@@ -28,17 +28,13 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </div>
-<div>
-  <h3>프로젝트</h3>
-  <ul>
-    <li>[교내동아리] 중앙동아리 COMs 커뮤니티 웹페이지 개발 [링크](https://github.com/orgs/coms-server/dashboard)</li>
-    <li>[산학연계SW프로젝트] 인공지능 병원을 위한 클라우드 의료정보시스템 개발 [링크](https://github.com/grayroom/CloudHIS-FrontEnd)</li>
-    <li>[과제] 데이터베이스및데이터시각화: 주식거래 웹서비스 개발 [링크](https://github.com/grayroom/KW_DB_PROJ)</li>
-    <li>[교내연구] 투자모델을 위한 백테스팅 플랫폼 연구/개발 [링크](https://github.com/DSLab-BackTest)</li>
-  </ul>
-  <h3>수상</h3>
-  <ul>
-    <li>[2023] 제7회 광운대학교 산학연계SW프로젝트 <span style="color: #f85149;">최우수상</span>::인공지능 병원을 위한 클라우드 의료정보시스템 개발</li>
-    <li>[2022] 광운대학교 TOPCIT 인증시험 <span style="color: #f85149;">1위</span>::635점</li>
-  </ul>
-</div>
+
+## 프로젝트
+* [교내동아리] 중앙동아리 COMs 커뮤니티 웹페이지 개발 [링크](https://github.com/orgs/coms-server/dashboard)
+* [산학연계SW프로젝트] 인공지능 병원을 위한 클라우드 의료정보시스템 개발 [링크](https://github.com/grayroom/CloudHIS-FrontEnd)
+* [과제] 데이터베이스및데이터시각화: 주식거래 웹서비스 개발 [링크](https://github.com/grayroom/KW_DB_PROJ)
+* [교내연구] 투자모델을 위한 백테스팅 플랫폼 연구/개발 [링크](https://github.com/DSLab-BackTest)
+
+## 수상
+* [2023] 제7회 광운대학교 산학연계SW프로젝트 `최우수상`::인공지능 병원을 위한 클라우드 의료정보시스템 개발
+* [2022] 광운대학교 TOPCIT 인증시험 `1위`</span>::635점
