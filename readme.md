@@ -3,9 +3,9 @@
 <div align="center">
 <h3>링크</h3>
   
-🌏[COM's Server Team](https://github.com/coms-server/server-issue)
+🌏[COM's 서버팀](https://github.com/coms-server/server-issue)
 🧩[solved.ac](https://solved.ac/profile/leejh9226)
-📚[Blog](grayroom.blog)
+📚[포트폴리오](https://grayroom.github.io/)
 
 <hr>
 <h3>🔥 기술스택 🔥</h3>
