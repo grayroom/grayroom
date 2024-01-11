@@ -16,6 +16,9 @@
 <p><img src="https://img.shields.io/badge/C-white?style=float&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C++-white?style=float&logo=Cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/JavaScript-white?style=float&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-white?style=float&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/CSS3-white?style=float&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/HTML5-white?style=float&logo=HTML5&logoColor=E34F26"/></p>
 
 </div>
+## 경력
+* [2023.07 ~ 2024.01] Acryl
+* [2024.01 ~ 2024.04] NAVER Cloud
 
 ## 프로젝트
 * [교내동아리] 중앙동아리 COMs 커뮤니티 웹페이지 개발 [링크](https://github.com/orgs/coms-server/dashboard)
