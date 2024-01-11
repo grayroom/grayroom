@@ -18,8 +18,8 @@
 </div>
 
 ## 경력
-* [2023.07 ~ 2024.01] Acryl
-* [2024.01 ~ 2024.04] NAVER Cloud
+* [2023.07 ~ 2024.01] Acryl [링크](https://www.acryl.ai/)
+* [2024.01 ~ 2024.04] NAVER Cloud [링크](https://www.navercloudcorp.com/)
 
 ## 프로젝트
 * [교내동아리] 중앙동아리 COMs 커뮤니티 웹페이지 개발 [링크](https://github.com/orgs/coms-server/dashboard)
