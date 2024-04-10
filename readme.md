@@ -8,8 +8,8 @@
 </div>
 
 ## 경력
-* [2023.07 ~ 2024.01] Acryl - Backend Developer
 * [2024.01 ~ TBD] NAVER Cloud - Backend Developer (Intern)
+* [2023.07 ~ 2024.01] Acryl - Backend Developer
 
 ## 프로젝트
 * [교내동아리] 중앙동아리 COMs 커뮤니티 웹페이지 개발 [링크](https://github.com/orgs/coms-server/dashboard)
