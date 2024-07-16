@@ -8,7 +8,8 @@
 </div>
 
 ## 경력
-* [2024.01 ~ TBD] NAVER Cloud - Backend Developer (Intern)
+* [2024.07 ~ 2024.07] MADUP - Backend Developer
+* [2024.01 ~ 2024.07] NAVER Cloud - Backend Developer (Intern)
 * [2023.07 ~ 2024.01] Acryl - Backend Developer
 
 ## 프로젝트
