@@ -21,4 +21,4 @@
 ## Award
 * [2023] `Excellent Award`, 2023 Graduation Exhibition of the Department of Computer Information Engineering, Kwangwoon University::Cloud-based HIS for AI Hospitals
 * [2023] `Grand Prize`, 7th Industry-Academic Linked SW Project Exhibition, Kwangwoon University::Cloud-based HIS for AI Hospitals
-* [2022] `1st Place`, Kwangwoon University TOPCIT Certification Exam::635점
+* [2022] `1st Place`, Kwangwoon University TOPCIT Certification Exam::635/1000
