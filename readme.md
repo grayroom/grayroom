@@ -7,7 +7,7 @@
 </div>
 
 ## Career
-* [2024.01 ~ ING] `Kakaobank` - AI Backend Developer
+* [2024.11 ~ ING] `Kakaobank` - AI Backend Developer
 * [2024.07 ~ 2024.11] `MADUP` - Backend Developer
 * [2024.01 ~ 2024.07] `NAVER Cloud` - Backend Developer (Intern)
 * [2023.07 ~ 2024.01] `Acryl` - Backend Developer
