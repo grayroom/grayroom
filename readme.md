@@ -13,10 +13,10 @@
 * [2023.07 ~ 2024.01] `Acryl` - Backend Developer
 
 ## Project
-* [University Club] Development of COMs Central Club Community Webpage [링크](https://github.com/orgs/coms-server/dashboard)
-* [Industry-Academic Project] Development of Cloud-based HIS for AI Hospitals [링크](https://github.com/grayroom/CloudHIS-BackEnd)
-* [Course Project] Database and Data Visualization: Stock Trading Web Service Development [링크](https://github.com/grayroom/KW_DB_PROJ)
-* [University Research] Research/Development of Backtesting Platform for Investment Models [링크](https://github.com/DSLab-BackTest)
+* [University Club] Development of COMs Central Club Community Webpage [link](https://github.com/orgs/coms-server/dashboard)
+* [Industry-Academic Project] Development of Cloud-based HIS for AI Hospitals [link](https://github.com/grayroom/CloudHIS-BackEnd)
+* [Course Project] Database and Data Visualization: Stock Trading Web Service Development [link](https://github.com/grayroom/KW_DB_PROJ)
+* [University Research] Research/Development of Backtesting Platform for Investment Models [link](https://github.com/DSLab-BackTest)
 
 ## Award
 * [2023] `Excellent Award`, 2023 Graduation Exhibition of the Department of Computer Information Engineering, Kwangwoon University::Cloud-based HIS for AI Hospitals
