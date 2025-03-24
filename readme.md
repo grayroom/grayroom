@@ -7,10 +7,10 @@
 </div>
 
 ## Career
-* [2024.11 ~ ING] `Kakaobank` - AI Backend Developer
-* [2024.07 ~ 2024.11] `MADUP` - Backend Developer
-* [2024.01 ~ 2024.07] `NAVER Cloud` - Backend Developer (Intern)
-* [2023.07 ~ 2024.01] `Acryl` - Backend Developer
+* [2024.11 ~ ING] [`Kakaobank`](https://www.kakaobank.com/) - AI Backend Developer
+* [2024.07 ~ 2024.11] [`MADUP`](https://www.madup.com/) - Backend Developer
+* [2024.01 ~ 2024.07] [`NAVER Cloud`](https://www.navercloudcorp.com/) - Backend Developer (Intern)
+* [2023.07 ~ 2024.01] [`Acryl`](https://www.acryl.ai/) - Backend Developer
 
 ## Project
 * [University Club] Development of COMs Central Club Community Webpage [link](https://github.com/orgs/coms-server/dashboard)
