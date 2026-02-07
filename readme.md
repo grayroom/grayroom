@@ -2,7 +2,7 @@
 <div align="center">
 
 <h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Django-white?style=for-the-badge&logo=Django&logoColor=092E20"/> <img src="https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=Docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<p><img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=langgraph"/> <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB"/>
 
 </div>
 
